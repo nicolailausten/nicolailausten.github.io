@@ -1,0 +1,26 @@
+.hoved {
+	text-align: center;
+}
+.hoved h1 {
+	font-size: 50px;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+.venstre {
+	order: 1;
+}
+.hoejre {
+	order: 3;
+}
+.game {
+	clear: both;
+	padding-top: 30px;
+}
+.midt {
+	order: 2;
+}
+.billede {
+	height: 100px;
+}
